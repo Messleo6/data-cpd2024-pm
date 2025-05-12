@@ -1,0 +1,3 @@
+mysql-connector-python==8.3.0
+redis==5.2.1
+timeit_decorator==2.0.0
